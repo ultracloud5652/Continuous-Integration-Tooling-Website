@@ -1,8 +1,6 @@
 
 # Continuous-Integration-Tooling-Website
 
-# Apache-LB
-
 
 ## DevOps Automation
 
